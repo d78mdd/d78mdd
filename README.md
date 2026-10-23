@@ -1,7 +1,10 @@
 ## Hi there 👋
 
 - 🌱 I’m currently learning AI-SDLC
-- 🔭 I’m currently working on a data-loading project using AI-SDLC workflow; RPA project support; QA test automation project
+- 🔭 I'm currently working on:
+  - A data-loading project using the AI-SDLC workflow
+  - RPA project support
+  - QA test automation project
   
 <!--
 **d78mdd/d78mdd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
